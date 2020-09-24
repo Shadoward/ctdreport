@@ -1,7 +1,7 @@
 # Python CTD Interactif Report Equinor Format
 
 ## Introduction
-This python script will read the csv file exported form the CTD *.pos and create a CTD interactif report in the Equinor data format.
+This python script will read a csv file exported from a CTD ".pos" file and create a CTD interactif report in the Equinor data format.
 
 ## Setup
 Several modules need to be install before using the script. You will need:
