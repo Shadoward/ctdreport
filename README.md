@@ -38,3 +38,4 @@ Example:
 
 ## TO DO:
 + Add SSDM option
++ Read other type of format
